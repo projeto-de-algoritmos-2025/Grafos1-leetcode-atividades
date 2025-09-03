@@ -7,7 +7,7 @@
 Nome | Matrícula
 |--|--|
 [Christian Hirsch Santos](https://github.com/crstyhs)| 211045113
-[Ian Lucca Soares Mesquita]() |  
+[Ian Lucca Soares Mesquita](https://github.com/IanLucca12) | 211045140 
 
 ## Sobre 
 Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leetcode.com/):
