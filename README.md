@@ -32,8 +32,15 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 **[Solução do Problema]()**
 ![1192-solved](/assets/)
 
+### [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description)
+![785](assets/Desafio785Enunciado.PNG)
 
+### Envio correto
+![785-solved](assets/Desafio785Resposta.PNG)
+### Tentativas
+![785-tentativas](assets/Desafio785Tentativas.PNG)
 
+**[Solução do Problema](mid/785_Is_Graph_Bipartite.py)**
 
 
 ## Vídeo Explicativo
