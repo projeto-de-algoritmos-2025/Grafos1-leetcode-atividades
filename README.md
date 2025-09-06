@@ -42,6 +42,16 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 **[Solução do Problema](mid/785_Is_Graph_Bipartite.py)**
 
+### [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description)
+![685](assets/685Enunciado.PNG)
+
+### Envio correto
+![685-solved](assets/685Resposta.PNG)
+### Tentativas
+![685-tentativas](assets/685Tentativas.PNG)
+
+**[Solução do Problema](hard/685_Redundant_Connection2.py)**
+
 
 ## Vídeo Explicativo
 
