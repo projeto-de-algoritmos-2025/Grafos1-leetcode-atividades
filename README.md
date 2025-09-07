@@ -31,9 +31,10 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 ![1192](assets/questao_1192.PNG)
 
 ### Envio correto
-![1192-solved](assets/aceito_1192.png)
+![1192-solved](assets/aceito_1192.PNG)
 ### Tentativas
 ![1192-tentativas](assets/respostas_1192.PNG)
+
 **[Solução do Problema](hard/1192_Critical_Connections_in_a_Network.py)**
 
 
