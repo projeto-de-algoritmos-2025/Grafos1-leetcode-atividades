@@ -26,11 +26,16 @@ Foram escolhidos quatro exercícios da plataforma online [LeetCode](https://leet
 
 **[Solução do Problema](hard/2876_Count_Visited_Nodes_in_a_Directed_Graph.py)**
 
-
+### Questão
 ### [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
-![1192](/assets/)
-**[Solução do Problema]()**
-![1192-solved](/assets/)
+![1192](assets/questao_1192.PNG)
+
+### Envio correto
+![1192-solved](assets/aceito_1192.png)
+### Tentativas
+![1192-tentativas](assets/respostas_1192.PNG)
+**[Solução do Problema](hard/1192_Critical_Connections_in_a_Network.py)**
+
 
 ### [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description)
 ![785](assets/Desafio785Enunciado.PNG)
